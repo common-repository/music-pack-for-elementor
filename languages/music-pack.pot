@@ -1,0 +1,2890 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2023-03-27 10:27+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: music-pack-for-elementor/classes/core/load-elementor-widgets.php:146
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:25
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:26
+msgid "Music Pack"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/load-music-pack-for-elementor.php:119
+msgid ""
+"Elementor plugin must be installed and active to run the template importer."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/load-music-pack-for-elementor.php:127
+msgid "Could not use the Elementor importer."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/load-music-pack-for-elementor.php:139
+msgid "Could not load the template file."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:31
+msgid "Please eneter a valid name"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:38
+msgid "Your email address cannot be empty"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:43
+msgid "Email address is not correct, please enter a valid email address"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:52
+msgid "Please enter a message."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:63
+msgid "New contact form message from your website "
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:67
+msgid "Sender Email: "
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:68
+msgid "Sender Name: "
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:103
+msgid "A problem occurred, could not register your email."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mp-ajax-handler.php:130
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:115
+#, php-format
+msgid ""
+"\"%1$s\" requires \"%2$s\" to be installed and activated. Please install and "
+"activate the free version of \"%2$s\" plugin to proceed."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:116
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:139
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:163
+msgid "Music Pack For Elementor"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:117
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:140
+msgid "Elementor"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:138
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:162
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-check-elementor.php:164
+msgid "PHP"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:37
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:38
+msgid "How to use"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:47
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:48
+msgid "URL Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:57
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:58
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:146
+msgid "Widgets Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:159
+msgid "MailChimp API Key"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:167
+msgid "MailChimp List/Audience ID"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:175
+msgid "Contact Form Recipient Email"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:195
+msgid ""
+"Please insert your MailChimp API KEY and list ID for the MailChimp Subscribe "
+"widget and the recipient email address for the contact form widget."
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:207
+msgid "Music Pack URL Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:221
+msgid "Event Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:229
+msgid "Discography Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:237
+msgid "Artist Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:245
+msgid "Video Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:253
+msgid "Gallery Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:262
+msgid "Event Category Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:270
+msgid "Album Category Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:278
+msgid "Artist Category Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:286
+msgid "Video Category Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:294
+msgid "Gallery Category Slug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-menu-pages.php:439
+msgid "Set up the URL/permalink slugs for your custom post types"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:279
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:332
+#: music-pack-for-elementor/templates/single/single-event.php:186
+msgid "Canceled"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:282
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:330
+#: music-pack-for-elementor/templates/single/single-event.php:189
+msgid "Sold Out"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:298
+msgid "jan"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:300
+msgid "feb"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:302
+msgid "mar"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:304
+msgid "apr"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:306
+msgid "may"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:308
+msgid "jun"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:310
+msgid "jul"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:312
+msgid "aug"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:314
+msgid "sep"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:316
+msgid "oct"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:318
+msgid "nov"
+msgstr ""
+
+#: music-pack-for-elementor/classes/core/mpack-utils.php:320
+msgid "dec"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-meta/mp-custom-meta.php:18
+msgid "Artist Selection"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-meta/mp-custom-meta.php:47
+msgid "Select one or more artists:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-meta/mp-custom-meta.php:69
+msgid ""
+"Select artists for this event/video/album. Hold down the Ctrl (windows) or "
+"Command (Mac) button to select multiple options."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:24
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:45
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:108
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:151
+msgid "Artists"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:25
+msgid "Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:26
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:27
+msgid "Add New Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:28
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:31
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:437
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:30
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:30
+msgid "Edit"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:29
+msgid "Edit Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:30
+msgid "New Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:31
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:34
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:440
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:33
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:33
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:165
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:483
+msgid "View"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:32
+msgid "View Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:33
+msgid "Search Artists"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:34
+msgid "No Artist Found"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:35
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:38
+msgid "No Event Found in Trash"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:36
+msgid "Parent Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:54
+msgid "Artist Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:85
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:817
+msgid "Top"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:86
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:147
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:197
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:167
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:268
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:238
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:816
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:183
+msgid "Center"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:87
+msgid "Bottom"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:93
+msgid "Nickname"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:98
+msgid "Artist nickname, or position in the band, ex: [bass player]."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:105
+msgid "Artist Website"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:110
+msgid "The URL to the artist website."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:117
+msgid "Artist Facebook URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:122
+msgid "The URL to the artist Facebook profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:129
+msgid "Artist Twitter URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:134
+msgid "The URL to the artist Twitter profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:141
+msgid "Artist Instagram URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:146
+msgid "The URL to the artist Instagram profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:153
+msgid "Artist SoundCloud URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:158
+msgid "The URL to the artist SoundCloud profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:165
+msgid "Artist YouTube URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:170
+msgid "The URL to the artist YouTube profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:177
+msgid "Artist Spotify URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:182
+msgid "The URL to the artist Spotify profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:189
+msgid "Artist Apple Music URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:194
+msgid "The URL to the artist Apple Music profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:201
+msgid "Artist TikTok URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:206
+msgid "The URL to the artist TikTok profile."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:213
+msgid "Vertically align artist image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:221
+msgid ""
+"Choose how to aligh the artist image when used on a visual composer element "
+"or for artist archive page."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:272
+msgid "Artist Name"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:273
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:305
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:309
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:89
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:136
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:106
+msgid "Date"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:290
+msgid "Artist Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:291
+msgid "Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:292
+msgid "Search Artist Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:293
+msgid "All Artist Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:294
+msgid "Parent Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:295
+msgid "Parent Artist Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:296
+msgid "Edit Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:297
+msgid "Update Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:298
+msgid "Add New Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-artist.php:299
+msgid "New Artist Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:27
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:28
+msgid "Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:29
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:30
+msgid "Add New Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:33
+msgid "New Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:35
+msgid "View Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:36
+msgid "Search Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:37
+msgid "No Event Found"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:39
+msgid "Parent Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:55
+msgid "Event Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:100
+msgid "Same Browser Window"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:101
+msgid "New Browser Tab"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:107
+msgid "Event Date"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:109
+msgid "The Date for Event YYYY/MM/DD"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:113
+msgid "Event Time"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:115
+msgid "Event Time hh:mm"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:119
+msgid "Multi-Day Event"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:122
+msgid "Check this ONLY if this is a multi day event."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:126
+msgid "Event End Date"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:130
+msgid "The End Date for the Multi Day Event YYYY/MM/DD"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:135
+msgid "Event Venue"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:137
+msgid "Venue ex. Glastonbury Festival"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:141
+msgid "Venue URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:143
+msgid "Venue URL ex. http://www.glastonburyfestivals.co.uk/"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:148
+msgid "Open Venue Link In"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:155
+msgid "Choose to open venue link in self window or in a new tab."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:161
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:306
+msgid "Location"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:163
+msgid "Event Location ex. Worthy Farm, Pilton GB"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:168
+msgid "Buy Tickets Message"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:170
+msgid "ex. [Buy Tickets From] or [Free Entry]"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:174
+msgid "Buy Tickets URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:176
+msgid "ex. http://www.ticketmaster.com/"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:180
+msgid "Open Tickets Link In"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:187
+msgid "Choose to open tickets link in self window or in a new tab."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:192
+msgid "Facebook Event Message"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:194
+msgid "ex. Check event on Facebook"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:198
+msgid "Facebook Event URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:200
+msgid "URL to Facebook Event Page"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:204
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:69
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:103
+msgid "Youtube URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:206
+msgid "URL to Promo Video on Youtube"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:210
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:76
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:104
+msgid "Vimeo URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:212
+msgid "URL to Promo Video on Vimeo"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:216
+msgid "Event Canceled"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:219
+msgid "Check this if the event was canceled."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:223
+msgid "Event Sold Out"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:226
+msgid "Check this if the event is sold out."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:304
+msgid "Event Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:307
+msgid "Venue"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:308
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:88
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:135
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:105
+msgid "Author"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:364
+msgid "Event Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:365
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:126
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:125
+msgid "Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:366
+msgid "Search Event Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:367
+msgid "All Event Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:368
+msgid "Parent Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:369
+msgid "Parent Event Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:370
+msgid "Edit Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:371
+msgid "Update Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:372
+msgid "Add New Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-event.php:373
+msgid "New Event Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:29
+msgid "Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:30
+msgid "Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:31
+msgid "Search Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:32
+msgid "All Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:33
+msgid "Parent Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:34
+msgid "Parent Album Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:35
+msgid "Edit Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:36
+msgid "Update Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:37
+msgid "Add New Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:38
+msgid "New Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:84
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:144
+msgid "Album Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:85
+msgid "Album Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:86
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:267
+msgid "Label"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:87
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:274
+msgid "Producer"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:169
+msgid "Album Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:178
+msgid "Album Song List"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:206
+msgid "Add New Song To Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:246
+msgid "Artist/Band"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:249
+msgid "Artist/Band Name"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:253
+msgid "Release Date"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:256
+msgid "Album Release Date YYYY/MM/DD"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:260
+msgid "Number of Discs"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:263
+msgid "Number of Discs  1/2/3..."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:270
+msgid "Record Label - like - Chess Records"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:277
+msgid "Album Producer - like - Bob Rock"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:281
+msgid "Catalogue Number"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:284
+msgid "Catalogue Number - like - 650001"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:288
+msgid "Youtube Promo URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:291
+msgid "Youtube URL - like - http://youtu.be/jUk-5nsGedM "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:295
+msgid "Vimeo Promo URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:298
+msgid "Vimeo URL - like - http://vimeo.com/8119784 "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:303
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:318
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:333
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:348
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:363
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:378
+msgid "Buy Message"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:306
+msgid "Buy Message - like - Buy It from Amazon"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:310
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:325
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:340
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:355
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:370
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:385
+msgid "Buy URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:313
+msgid ""
+"Buy URL - like - http://www.amazon.com/Old-Sock-Eric-Clapton/dp/B00B23O96A/"
+"ref=ntt_mus_ep_dpi_1 "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:321
+msgid "Buy Message - like - Buy It from iTunes"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:328
+msgid ""
+"Buy URL - like - https://itunes.apple.com/us/album/living-proof/id394442693 "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:336
+msgid "Buy Message - like - Buy It from SoundCloud"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:343
+msgid ""
+"Buy URL - like - http://www.last.fm/music/Radiohead/1995-06-01:+Tramps,+New"
+"+York,+NY,+USA "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:351
+msgid "Buy Message - like - Buy It from eBay"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:358
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:373
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:388
+msgid "Buy URL - like - http://www.ebay.com/soc/itm/330938741705 "
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:366
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:381
+msgid "Buy Message - like - Buy It from Google Play"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:412
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:107
+msgid "Remove"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:433
+msgid "Discography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:434
+msgid "Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:435
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:436
+msgid "Add New Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:438
+msgid "Edit Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:439
+msgid "New Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:441
+msgid "View Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:442
+msgid "Search Albums"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:443
+msgid "No Album Found"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:444
+msgid "No Album Found in Trash"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-music-album.php:445
+msgid "Parent Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:26
+msgid "Photo Albums"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:27
+msgid "Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:28
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:29
+msgid "Add New Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:31
+msgid "Edit Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:32
+msgid "New Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:34
+msgid "View Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:35
+msgid "Search Photo Albums"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:36
+msgid "No Photo Albums found"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:37
+msgid "No Photo Albums Found in Trash"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:38
+msgid "Parent Photo Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:54
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:45
+msgid "Image Gallery"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:72
+msgid "Add Images To Gallery"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:134
+msgid "Photo Album Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:159
+msgid "Photo Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:160
+msgid "Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:161
+msgid "Search Photo Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:162
+msgid "All Photo Album Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:163
+msgid "Parent Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:164
+msgid "Parent Photo Album Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:165
+msgid "Edit Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:166
+msgid "Update Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:167
+msgid "Add New Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-photo-album.php:168
+msgid "New Photo Album Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:26
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:49
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:114
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:167
+msgid "Videos"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:27
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:110
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:583
+msgid "Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:28
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:29
+msgid "Add New Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:31
+msgid "Edit Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:32
+msgid "New Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:34
+msgid "View Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:35
+msgid "Search Videos"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:36
+msgid "No Videos Found"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:37
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:38
+msgid "Parent Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:54
+msgid "Video Custom Settings"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:72
+msgid "Youtube short url like - http://youtu.be/jUk-5nsGedM ."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:79
+msgid "Vimeo short url like - http://vimeo.com/8119784 ."
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:102
+msgid "Video Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:149
+msgid "Video Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:150
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:134
+msgid "Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:151
+msgid "Search Video Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:152
+msgid "All Video Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:153
+msgid "Parent Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:154
+msgid "Parent Video Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:155
+msgid "Edit Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:156
+msgid "Update Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:157
+msgid "Add New Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/custom-posts/mp-video.php:158
+msgid "New Video Category"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:45
+msgid "Music Albums (Vinyl)"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:109
+msgid "Music Albums Vinyl"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:116
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:116
+msgid "Albums to show"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:128
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:128
+msgid "Albums Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:138
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:138
+msgid "Albums By Artist:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:151
+msgid "Music Albums - Vinyl"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:160
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:207
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:212
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:232
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:314
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:310
+msgid "Title Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:176
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:223
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:228
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:248
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:330
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:300
+msgid "Title Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:194
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:246
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:348
+msgid "Subtitle Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:210
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:262
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:364
+msgid "Subtitle Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:229
+msgid "Rows Gap"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:327
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums-vinyl.php:351
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:474
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:498
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:435
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:484
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:358
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:376
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:1123
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:1141
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:444
+msgid "All"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:45
+msgid "Music Albums"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:109
+msgid "Music Albums Widget"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:149
+msgid "Emphasize First"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:151
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:139
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:139
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:142
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:145
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:294
+msgid "Yes"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:152
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:140
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:140
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:143
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:146
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:295
+msgid "No"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:165
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:111
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:123
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:157
+msgid "Text"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:173
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:214
+msgid "Date Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:189
+msgid "Date Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:241
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:572
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:597
+msgid "Link Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:257
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:551
+msgid "Link Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:270
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:288
+msgid "Overlay"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:278
+msgid "Opacity"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:303
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:319
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:307
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:382
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:392
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:406
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:430
+msgid "Overlay Background"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:337
+msgid "Shape"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-albums.php:345
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:234
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:280
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:283
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:253
+msgid "Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:115
+msgid "Artists No"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:127
+msgid "Artists Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:137
+msgid "Link to Single Artist"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:159
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:139
+msgid "Items On Row"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:175
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:362
+msgid "Gap"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-artists.php:281
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:260
+msgid "Icons Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:46
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:109
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:190
+msgid "Blog Posts"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:116
+msgid "Posts No"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:128
+msgid "Post Category:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:138
+msgid "Excerpt Length"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:150
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:126
+msgid "Gap Width"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:163
+msgid "Show Thumbnails"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:165
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:177
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:130
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:136
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:135
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:175
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:187
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:110
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:325
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:339
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:365
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:408
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:422
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:436
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:462
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:504
+msgid "Show"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:166
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:178
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:131
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:176
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:188
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:324
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:338
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:364
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:407
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:421
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:435
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:461
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:503
+msgid "Hide"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:175
+msgid "Show Categories"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:198
+msgid "Meta Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:214
+msgid "Meta Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:266
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:296
+msgid "Content Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:282
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:312
+msgid "Content Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:304
+msgid "Categories Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:323
+msgid "Categories Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:344
+msgid "Read More Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:361
+msgid "Read More Hover Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:378
+msgid "Read More Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-blog-posts.php:458
+msgid "Read more"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:45
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:102
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:159
+msgid "Contact Details"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:109
+msgid "Address"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:112
+msgid "2066 Merton Street, Toronto, Ontario"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:113
+msgid "Type your physical address here"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:120
+msgid "Email"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:122
+msgid "hello@musicpack.com"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:129
+msgid "Phone"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:131
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:140
+msgid "+89 425 753 5428"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:138
+msgid "Second Phone"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:147
+msgid "Fax"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:149
+msgid "+89 916 768 5532"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:167
+msgid "Address Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:183
+msgid "Address Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:201
+msgid "Labels Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:217
+msgid "Labels Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:235
+msgid "Contact Data Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:251
+msgid "Contact Data Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:283
+msgid "Email:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:294
+msgid "Phone:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-details.php:308
+msgid "Fax:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:45
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:108
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:210
+msgid "Contact Form"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:115
+msgid "Style"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:119
+msgid "One On Row"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:120
+msgid "Two on Row"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:128
+msgid "Email Subject"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:130
+msgid "New contact form message from your website"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:137
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:143
+msgid "Add GDPR Consent"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:149
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:155
+msgid "GDPR Consent Message"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:151
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:157
+msgid ""
+"This form collects your name and email. Check our our privacy policy for "
+"more details on how we protect and manage your data."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:152
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:158
+msgid "GDPR consent message..."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:163
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:116
+msgid "Text On Button"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:165
+msgid "Send Email"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:172
+msgid "Loading Text On Button"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:174
+msgid "Please Wait..."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:181
+msgid "Name Placeholder"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:183
+msgid "Your Name"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:190
+msgid "Email Placeholder"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:192
+msgid "Your Email"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:199
+msgid "Message Placeholder"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:201
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:976
+msgid "Please enter a message"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:219
+msgid "COLORS"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:228
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:374
+msgid "Placeholder Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:244
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:790
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:909
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:217
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:288
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:348
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:484
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:534
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:195
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:232
+msgid "Text Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:276
+msgid "Error Messages Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:301
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:267
+msgid "Input Background"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:325
+msgid "TYPOGRAPHY"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:334
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:364
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:248
+msgid "Text Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:353
+msgid "POSITION"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:362
+msgid "Input Left/Right Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:385
+msgid "Input Top/Bottom Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:408
+msgid "Textarea Top/Bottom Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:431
+msgid "Textarea height"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:454
+msgid "Icons distance from right"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:477
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:307
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:646
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:177
+msgid "Icon Size"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:508
+msgid "INPUT BORDER"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:518
+msgid "Input Border"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:527
+msgid "Border Color On Focus"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:544
+msgid "Input Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:577
+msgid "BUTTON"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:586
+msgid "Button Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:614
+msgid "Button Left/Right Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:637
+msgid "Button Top/Bottom Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:660
+msgid "Form To Button Distance"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:683
+msgid "Button Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:705
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:565
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:467
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:210
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:477
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:481
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:396
+msgid "Normal"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:712
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:831
+msgid "Button Background"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:716
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:835
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:214
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:647
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:914
+msgid "Classic"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:720
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:839
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:651
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:918
+msgid "Gradient"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:733
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:852
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:266
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:276
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:500
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:549
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:759
+msgid "Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:752
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:871
+msgid "Background First Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:771
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:890
+msgid "Background Second Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:806
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:925
+msgid "Border Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:824
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:590
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:736
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:281
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:527
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:506
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:420
+msgid "Hover"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:965
+msgid "Please enter your name"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:971
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:987
+msgid ""
+"Cannot send mail, an error occurred while delivering this message. Please "
+"try again later."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-contact-form.php:996
+msgid "Your message was sent successfully. Thanks!"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:47
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:111
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:172
+msgid "Event Countdown"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:118
+msgid "Widget Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:120
+msgid "Next Big Show"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:121
+msgid "Type your text here"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:128
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:185
+msgid "Show Event Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:140
+msgid "Use Custom Event Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:155
+msgid "Choose Event Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:180
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:257
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:240
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:311
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:427
+msgid "Left/Right Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:203
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:236
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:450
+msgid "Top/Bottom Padding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:296
+msgid "Widget Title Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:320
+msgid "Event Title Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:336
+msgid "Event Title Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:354
+msgid "Venue Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:370
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:244
+msgid "Tickets Link Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:393
+msgid "Timer Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:417
+msgid "Timer Numbers Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:432
+msgid "Timer Numbers Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:450
+msgid "Timer Words Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:465
+msgid "Timer Words Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:483
+msgid "Timer Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:514
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:422
+msgid "Image Max Width"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:674
+msgid "Days"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:678
+msgid "Hrs"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:682
+msgid "Mins"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-event-countdown.php:686
+msgid "Secs"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:44
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:107
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:176
+msgid "Events Cards"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:114
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:113
+msgid "Events Number"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:140
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:139
+msgid "Next Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:141
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:140
+msgid "Past Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:142
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:141
+msgid "All Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:150
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:149
+msgid "Sort Events"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:154
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:153
+msgid "Ascending"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:155
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:154
+msgid "Descending"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:163
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:162
+msgid "Firlter By Artist:"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:184
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:536
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:804
+msgid "Event Name Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:199
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:575
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:842
+msgid "Event Venue Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:229
+msgid "Date Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-cards.php:268
+msgid "Overlay Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:43
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:106
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:201
+msgid "Events List"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:173
+msgid "Show Event Year"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:210
+msgid "Date Style"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:215
+msgid "Creative"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:223
+msgid "Day Opacity"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:316
+msgid "Separator Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:331
+msgid "Separator Width"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:394
+msgid "Inactive Button Text Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:409
+msgid "Inactive Button Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:433
+msgid "Buttons Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:474
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:743
+msgid "Event Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:497
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:766
+msgid "Event Day Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:512
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:781
+msgid "Event Month Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:551
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:819
+msgid "Event Location Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:590
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:857
+msgid "Event Time Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:613
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:880
+msgid "Button Text Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:628
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:895
+msgid "Button Border Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:643
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:910
+msgid "Button Background Style"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:664
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:931
+msgid "Button Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:682
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:949
+msgid "Button First Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:700
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:967
+msgid "Button Second Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:727
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:994
+msgid "Event Entry Box Shadow"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:1089
+msgid "Today"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-events-list.php:1092
+msgid "Tomorrow"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:109
+msgid "Gallery"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:143
+msgid "3"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:144
+msgid "4"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:154
+msgid "Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:166
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:208
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:591
+msgid "Aspect Ratio"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:170
+msgid "square"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:171
+msgid "portrait"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:172
+msgid "landscape"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:181
+msgid "Caption"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:190
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:198
+msgid "Reviews"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:209
+msgid "Slide Gallery"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:217
+msgid "Caption Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-gallery.php:233
+msgid "Caption Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:46
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:124
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:182
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:132
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:153
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:174
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:129
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:143
+msgid "Link"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:104
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:184
+msgid "Custom Link"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:116
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:128
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:149
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:162
+msgid "Enter text content"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:117
+msgid "Add Your Link Text Here"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:139
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:189
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:159
+msgid "Alignment"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:143
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:193
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:163
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:264
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:234
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:179
+msgid "Left"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:151
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:201
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:171
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:272
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:242
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:187
+msgid "Right"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:174
+msgid "Icon After"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:272
+#: music-pack-for-elementor/classes/widgets/mp-widget-link.php:343
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:517
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:565
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:595
+msgid "Border"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:46
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:109
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:172
+msgid "MailChimp Subscribe"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:118
+msgid "Subscribe"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:125
+msgid "Text On Button On Loading"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:127
+msgid "Processing..."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:134
+msgid "Input Placeholder"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:136
+msgid "Email Address"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:180
+msgid "General"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:213
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:225
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:195
+msgid "Width"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:291
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:631
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:266
+msgid "Icon Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:339
+msgid "Text & Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:390
+msgid "Placeholder Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:408
+msgid "Subscribe Button"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:417
+msgid "Subscribe Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:585
+msgid "Widget Border"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:614
+msgid "Consent"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:626
+msgid "Consent Gap"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:652
+msgid "Consent Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:665
+msgid "Consent Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-mailchimp-subscribe.php:717
+msgid "Thank You For Subscribing! You have been added to our mailing list."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:46
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:103
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:129
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:187
+msgid "Page Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:113
+msgid "Current Page Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:114
+msgid "Custom Text"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-page-title.php:139
+msgid "HTML Tag"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:46
+msgid "Review Slider"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:110
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:217
+msgid "Slide Review Slider"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:117
+msgid "Slide Speed"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:137
+msgid "Slide Delay"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:159
+msgid "Martin Stanley"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:161
+msgid "Someone Like You"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:168
+msgid "Position"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:170
+msgid "Manager"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:177
+msgid "Reviewer Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:188
+msgid "Content"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:190
+msgid "We just want to say thank you..."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:191
+msgid "Review content here"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:225
+msgid "Quote Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:241
+msgid "Quote Size"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:264
+msgid "Quote Opacity"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:330
+msgid "Name Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:346
+msgid "Name Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:364
+msgid "Position Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:380
+msgid "Position Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:399
+msgid "Image Border Radius"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:453
+msgid "Arrows Navigation Top Distance"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:488
+#: music-pack-for-elementor/classes/widgets/mp-widget-review-slider.php:513
+msgid "Arrows Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:48
+msgid "Gallery Post Promo"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:105
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:199
+msgid "Gallery Post Preview"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:112
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:114
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:511
+msgid "Choose Image"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:133
+msgid "Background Position"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:136
+msgid "Center Center"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:137
+msgid "Center Left"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:138
+msgid "Center Right"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:139
+msgid "Top Center"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:140
+msgid "Top Left"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:141
+msgid "Top Right"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:142
+msgid "Bottom Center"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:143
+msgid "Bottom Left"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:144
+msgid "Bottom Right"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:156
+msgid "Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:161
+msgid "Enter title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:162
+msgid "Toronto Concert"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:169
+msgid "Subtitle"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:174
+msgid "Enter subtitle"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:175
+msgid "January 2021"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:212
+msgid "Landscape - 16:9"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:213
+msgid "Landscape - 4:3"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:214
+msgid "Square - 1:1"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:215
+msgid "Portrait - 2:3"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:216
+msgid "Portrait - 10:16"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-gallery.php:260
+msgid "Align"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:49
+msgid "Music Album Promo"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:107
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:187
+msgid "Single Music Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:150
+msgid "Say You Do"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:157
+msgid "Album Subtitle"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:163
+msgid "Romantic"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:170
+msgid "Link To Album"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:230
+msgid "Album Align"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:284
+msgid "Hover Effect"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:289
+msgid "Vinyl"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:308
+msgid "Album Title Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:321
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:445
+msgid "Album Title Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:351
+msgid "Album Subtitle Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:365
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-music-album.php:461
+msgid "Album Subtitle Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:51
+msgid "Single Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:117
+msgid "Source"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:121
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:120
+msgid "YouTube"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:122
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:121
+msgid "Vimeo"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:123
+msgid "Dailymotion"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:124
+msgid "Self Hosted"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:141
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:162
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:183
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:239
+msgid "Enter your URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:195
+msgid "External URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:206
+msgid "Choose File"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:225
+msgid "URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:250
+msgid "Start Time"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:252
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:262
+msgid "End Time"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:264
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:275
+msgid "Video Options"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:284
+msgid "Autoplay"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:292
+msgid "Play On Mobile"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:303
+msgid "Mute"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:311
+msgid "Loop"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:322
+msgid "Player Controls"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:336
+msgid "Video Info"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:350
+msgid "Modest Branding"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:362
+msgid "Logo"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:377
+msgid "Privacy Mode"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:379
+msgid ""
+"When you turn on privacy mode, YouTube won't store information about "
+"visitors on your website unless they play the video."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:389
+msgid "Suggested Videos"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:392
+msgid "Current Video Channel"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:393
+msgid "Any Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:405
+msgid "Intro Title"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:419
+msgid "Intro Portrait"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:433
+msgid "Intro Byline"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:447
+msgid "Controls Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:459
+msgid "Download Button"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:472
+msgid "Poster"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:494
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:501
+msgid "Image Overlay"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:528
+msgid "Lazy Load"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:552
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:618
+msgid "Play Icon"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:565
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:746
+msgid "Lightbox"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:568
+msgid "Off"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:569
+msgid "On"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:681
+msgid "Container Background Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:694
+msgid "Container Size"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:731
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:770
+msgid "UI Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:781
+msgid "UI Hover Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:793
+msgid "Content Width"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:812
+msgid "Content Position"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:831
+msgid "Entrance Animation"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-single-video.php:952
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:156
+msgid "Play Video"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:45
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:109
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:169
+msgid "Video Play Button"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:116
+msgid "Video Source"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:131
+msgid "Enter YouTube URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:145
+msgid "Enter Vimeo URL"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:159
+msgid "Watch Now.."
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:200
+msgid "Circle Size"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:283
+msgid "Icon Background"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-video-play-btn.php:292
+msgid "Add Animation"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:122
+msgid "Videos Number"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:152
+msgid "On Click"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:155
+msgid "Link To Video Post"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:175
+msgid "Text Align"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:209
+msgid "Vibrant Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:234
+msgid "Category Typography"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:244
+msgid "Category Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:260
+msgid "Category Hover Color"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:276
+msgid "Category Bottom Margin"
+msgstr ""
+
+#: music-pack-for-elementor/classes/widgets/mp-widget-videos.php:326
+msgid "Title Hover Color"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-album.php:69
+msgid "Producer:"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-album.php:77
+msgid "Number of discs:"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-artist.php:24
+msgid "Official website"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-artist.php:31
+msgid "Follow:"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-event.php:155
+msgid "Tickets"
+msgstr ""
+
+#: music-pack-for-elementor/templates/single/single-event.php:167
+msgid "Facebook Event "
+msgstr ""
